@@ -2,5 +2,5 @@
 using ConsoleApp1;
 Hello hello = new Hello();
 
-hello.HelloWorld();
+Console.WriteLine(hello.sub());    
 Console.ReadKey();
